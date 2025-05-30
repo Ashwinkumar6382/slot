@@ -1,4 +1,4 @@
-=# Ex04 Time Table
+# Ex04 Time Table
 ## Date:28/05/2025
 
 ## AIM
